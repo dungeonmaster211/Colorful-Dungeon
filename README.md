@@ -1,2 +1,3 @@
 # Colorful-Dungeon
-an entrance to a different world.
+
+version: gamma (currently under development as no foundation is established)
